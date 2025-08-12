@@ -1,0 +1,5 @@
+Patch contents:
+- Fixed JSX in UseIngredientsModal (removed stray \n characters).
+- Corrected 'or' to '||' in PRICE helper.
+- Added CommonJS configs: postcss.config.cjs, tailwind.config.cjs.
+Drop these into your repo, replacing existing files if prompted, then redeploy on Vercel.
